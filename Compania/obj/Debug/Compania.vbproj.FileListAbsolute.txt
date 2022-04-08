@@ -1,0 +1,16 @@
+C:\Users\Milvio\Desktop\Compania\bin\Debug\Compania.exe.config
+C:\Users\Milvio\Desktop\Compania\bin\Debug\Compania.exe
+C:\Users\Milvio\Desktop\Compania\bin\Debug\Compania.pdb
+C:\Users\Milvio\Desktop\Compania\bin\Debug\Compania.xml
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.vbprojAssemblyReference.cache
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.Form1.resources
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.Resources.resources
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.vbproj.GenerateResource.cache
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.vbproj.CoreCompileInputs.cache
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.exe
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.xml
+C:\Users\Milvio\Desktop\Compania\obj\Debug\Compania.pdb
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\Compania\bin\Debug\Compania.exe.config
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\Compania\obj\Debug\Compania.exe
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\Compania\obj\Debug\Compania.xml
+C:\Users\Duban Javier\Documents\Visual Studio 2013\Projects\Compania\obj\Debug\Compania.pdb
